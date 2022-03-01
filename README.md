@@ -1,4 +1,4 @@
-# 일정표
+# 일정표 (JavaScript/HTML/CSS)
 개강을 맞이해 필요한 일정표를 만들었다. (Rock's Easyweb 강좌 참고)
 
 ## 기능
